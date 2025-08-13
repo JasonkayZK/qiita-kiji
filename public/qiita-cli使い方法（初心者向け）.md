@@ -1,13 +1,13 @@
 ---
 title: qiita-cli使い方法（初心者向け）
 tags:
-  - '初心者'
-  - 'qiita-cli'
-  - 'Qiita'
-  - 'Github'
+  - Qiita
+  - GitHub
+  - 初心者
+  - qiita-cli
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-08-14T00:25:14+09:00'
+id: 1fb540a19ab6c2c7baea
 organization_url_name: null
 slide: false
 ignorePublish: false
