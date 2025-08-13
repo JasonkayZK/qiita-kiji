@@ -49,7 +49,7 @@ npx qiita init
 
 Qiita CLI を利用して記事の取得や投稿、更新を行うには、Qiita の個人用アクセストークンが必要です。
 
-1. Qiita の設定ページ [https://qiita.com/settings/tokens/new>](https://qiita.com/settings/tokens/new) にアクセスし、新しいトークンを発行します。
+1. Qiita の設定ページ [https://qiita.com/settings/tokens/new/](https://qiita.com/settings/tokens/new) にアクセスし、新しいトークンを発行します。
 2. アクセストークンの説明には任意のテキストを設定し、スコープは `read_qiita` と `write_qiita` にチェックを入れてください。
 3. 発行されたトークンをコピーし、以下のコマンドでログインします。
 
